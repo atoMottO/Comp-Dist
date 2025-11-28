@@ -1,0 +1,194 @@
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Falha ao adquirir lock, recurso ocupado: telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:23:07.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Falha ao adquirir lock, recurso ocupado: telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:31:58.000Z:servico-agendamento:Falha ao adquirir lock, recurso ocupado: telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:17.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:34:18.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Salvando novo agendamento no BD
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Falha ao adquirir lock, recurso ocupado: telescopio-1_2025-12-01T03:00:00Z
+AUDIT:2025-11-21T23:37:34.000Z:servico-agendamento:{"timestamp_utc": "2025-11-22T02:37:34.127787Z", "level": "AUDIT", "event_type": "AGENDAMENTO_CRIADO", "service": "servico-agendamento", "details": {"agendamento_id": 1, "cientista_id": 1, "horario_inicio_utc": "2025-12-01T03:00:00Z"}}
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Requisição recebida para POST /agendamentos para o recurso 2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Tentando adquirir lock para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Lock adquirido com sucesso para o recurso telescopio-1_2025-12-01T03:00:00Z
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Iniciando verificação de conflito no BD
+INFO:2025-11-21T23:37:34.000Z:servico-agendamento:Liberando lock para o recurso telescopio-1_2025-12-01T03:00:00Z

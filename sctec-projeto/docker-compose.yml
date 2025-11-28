@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  # Serviço do Porteiro (Node.js)
+  servico-coordenador:
+    build: ./servico-coordenador
+    container_name: sctec-coordenador
+    ports:
+      - "3000:3000"
+    networks:
+      - sctec-network
+
+  # Serviço do Cérebro (Python/Flask)
+  servico-agendamento:
+    build: ./servico-agendamento
+    container_name: sctec-agendamento
+    ports:
+      - "5000:5000"
+    environment:
+      # Aqui definimos a URL do coordenador usando o nome do serviço na rede Docker
+      - COORDINATOR_URL=http://servico-coordenador:3000
+    depends_on:
+      - servico-coordenador
+    networks:
+      - sctec-network
+
+# Define uma rede privada para eles comunicarem
+networks:
+  sctec-network:
+    driver: bridge

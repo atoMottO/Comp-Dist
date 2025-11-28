@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>SCTEC - Telescópio</title>
+    <style>
+        body { font-family: sans-serif; max-width: 800px; margin: 2rem auto; padding: 1rem; background: #f0f2f5; }
+        .card { background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 1rem; }
+        button { background: #3182ce; color: white; border: none; padding: 0.5rem 1rem; border-radius: 4px; cursor: pointer; }
+        button.delete { background: #e53e3e; }
+    </style>
+</head>
+<body>
+    <h1>🔭 Controle do Telescópio</h1>
+    
+    <div class="card">
+        <h2>Relógio do Servidor</h2>
+        <div id="clock">Carregando...</div>
+        <button onclick="syncTime()">Sincronizar Tempo</button>
+    </div>
+
+    <div class="card">
+        <h2>Novo Agendamento</h2>
+        <p>Cientista ID: <input type="number" id="cientistaId" value="1"></p>
+        <p>Horário (UTC): <input type="text" id="horario" value="2025-12-01T03:00:00Z"></p>
+        <button onclick="criarAgendamento()">Agendar</button>
+    </div>
+
+    <div class="card">
+        <h2>Agenda</h2>
+        <ul id="listaAgendamentos"></ul>
+        <button onclick="carregarAgendamentos()">Atualizar Lista</button>
+    </div>
+
+    <script>
+        let timeOffset = 0;
+
+        // Define a URL base. Se estiver a correr no servidor Flask (localhost), usa caminhos relativos.
+        // Se estiver a abrir o ficheiro diretamente ou num ambiente estranho, tenta usar localhost:5000.
+        const API_BASE = window.location.protocol.startsWith('http') && !window.location.origin.includes('usercontent') 
+                         ? '' 
+                         : 'http://localhost:5000';
+
+        async function syncTime() {
+            try {
+                const t0 = Date.now();
+                const res = await fetch(`${API_BASE}/time`);
+                if (!res.ok) throw new Error('Falha na rede');
+                const data = await res.json();
+                const t1 = Date.now();
+                const serverTime = new Date(data.server_time).getTime();
+                const rtt = t1 - t0;
+                timeOffset = (serverTime + (rtt / 2)) - t1;
+                alert(`Sincronizado! Ajuste: ${timeOffset}ms`);
+            } catch (error) {
+                console.error(error);
+                alert("Erro ao sincronizar: Verifique se o servidor Flask está a correr em http://localhost
